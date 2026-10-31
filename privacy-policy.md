@@ -1,8 +1,9 @@
-SwiftFix Privacy Policy
+Privacy Policy
 
 Effective date: November 01, 2026
 App: SwiftFix
 Developer: ONOZEK
+
 Contact: onozek@gmail.com
 
 1. Introduction
