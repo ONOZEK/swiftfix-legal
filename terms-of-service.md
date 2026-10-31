@@ -1,4 +1,4 @@
-SwiftFix Terms of Service
+Terms of Service
 
 Effective date: November 01, 2026
 App: SwiftFix
@@ -132,9 +132,9 @@ We reserve the right to restrict or discontinue access to the application where 
 
 For questions, suggestions, or support:
 
-Developer: ONOZEK
-Email: onozek@gmail.com 
+**Developer:** ONOZEK
 
+**Contact email:** onozek@gmail.com
 ---
 
 © 2026 ONOZEK. All rights reserved.
