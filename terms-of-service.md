@@ -5,6 +5,7 @@ Effective date: November 01, 2026
 App: SwiftFix
 
 Agreement
+
 By downloading, installing, or using SwiftFix, you agree to these Terms of Service.
 
 If you do not agree with these terms, please stop using the application.
