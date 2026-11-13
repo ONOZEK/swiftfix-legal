@@ -3,7 +3,6 @@ Terms of Service
 Privacy Policy
 
 Effective date: November 01, 2026
-
 App: SwiftFix
 Developer: ONOZEK
 Contact email: onozek@gmail.com
@@ -101,7 +100,9 @@ Any updated version will be published on this page with a revised effective date
 Contact
 For privacy questions, concerns, or feedback, contact:
 
-Developer: ONOZEK
-Contact email: onozek@gmail.com
+**Developer:** ONOZEK
+
+**Contact email:** onozek@gmail.com
+___
 
 © 2026 ONOZEK. All rights reserved.
