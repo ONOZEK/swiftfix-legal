@@ -101,6 +101,6 @@ For privacy questions, concerns, or feedback, contact:
 **Developer:** ONOZEK
 
 **Contact email:** onozek@gmail.com
-____
+___
 
 © 2026 ONOZEK. All rights reserved.
