@@ -5,6 +5,7 @@ Effective date: November 01, 2026
 App: SwiftFix
 
 Introduction
+
 SwiftFix is an Android application developed by ONOZEK. It helps users correct, improve, and transform text using AI commands.
 
 Your privacy matters. This policy explains what information SwiftFix accesses, how it is used, and when information is shared with third-party AI providers, advertising partners, and analytics services.
